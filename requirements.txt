@@ -1,0 +1,3 @@
+Scrapy>=1.5.0
+PyMySQL
+fake_useragent
